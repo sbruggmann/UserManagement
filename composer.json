@@ -21,6 +21,8 @@
         "issues": "https://github.com/sandstorm/UserManagement/issues",
         "source": "https://github.com/sandstorm/UserManagement"
     },
+    "prefer-stable": true,
+    "minimum-stability": "dev",
     "require": {
         "neos/flow": "^4.0",
         "sandstorm/templatemailer": "dev-emogrifier-2-0-0"
